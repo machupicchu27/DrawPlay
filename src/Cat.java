@@ -19,9 +19,6 @@ public class Cat {
 	// mouth starts about 40% from left edge of head
 	private static final int MOUTH_X = HEAD_DIMENSION/5 * 2;
 	private static final int MOUTH_Y = HEAD_DIMENSION/5 * 3;
-	// Ear size
-	private static final int EAR_X = HEAD_DIMENSION/4;
-	private static final int EAR_Y = HEAD_DIMENSION/4;
 	
 	// draw will render the Cat on the Graphics object
 	public void draw(Graphics g, int catX, int catY)
