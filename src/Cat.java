@@ -20,7 +20,7 @@ public class Cat {
 	private static final int MOUTH_X = HEAD_DIMENSION/5 * 2;
 	private static final int MOUTH_Y = HEAD_DIMENSION/5 * 3;
 	// ear dimentsions 
-	private static final int EAR_HEIGHT = 60;
+	private static final int EAR_HEIGHT = 50;
 	private static final int EAR_WIDTH = 60;
 	private static final int EAR_SEPARATION = HEAD_DIMENSION/3;
 	// ear height 
